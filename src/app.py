@@ -11,7 +11,7 @@ def details():
         {
             'time': str(datetime.now().isoformat()),
             'hostname': socket.gethostname(),
-            'message': 'You are doing great, human! Keep going! You can do it! I believe in you.'
+            'message': 'You are doing great, human!'
         }
     )
 
