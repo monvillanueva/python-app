@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: monvillanueva/python-app
   pullPolicy: IfNotPresent
-  tag: e996204
+  tag: cd67b7a
 imagePullSecrets: []
 nameOverride: ''
 fullnameOverride: ''
